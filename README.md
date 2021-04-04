@@ -52,7 +52,7 @@ repositories {
 dependencies {
   implementation 'com.github.abstract-arrow:Paralin:<version>'
 }
-# latest version currently is 0.1.1
+# latest version currently is 0.1.2
 ```
 
 ## Contributing
